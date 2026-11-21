@@ -1,0 +1,1 @@
+"""Funciones financieras del equipo."""
