@@ -6,6 +6,7 @@ Módulo 1 del Diplomado en Finanzas Cuantitativas con Python y Machine Learning 
 
 ## Pregunta del caso
 
+
 (Qué quieren saber de su activo, en una o dos oraciones.)
 
 ## Activo
